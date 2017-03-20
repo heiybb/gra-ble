@@ -1,0 +1,387 @@
+[
+    {
+        "outputFile": "D:\\Git Source\\graduate\\PWM-Android1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endColumn": 62,
+                    "endOffset": 313
+                },
+                "from": {
+                    "file": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 62,
+                        "endOffset": 750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 318,
+                    "endColumn": 44,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 755,
+                        "endColumn": 44,
+                        "endOffset": 795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 56,
+                    "endOffset": 415
+                },
+                "from": {
+                    "file": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 800,
+                        "endColumn": 56,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 420,
+                    "endColumn": 41,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 41,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endColumn": 46,
+                    "endOffset": 504
+                },
+                "from": {
+                    "file": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1625,
+                        "endColumn": 46,
+                        "endOffset": 1667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 509,
+                    "endColumn": 46,
+                    "endOffset": 551
+                },
+                "from": {
+                    "file": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 46,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 556,
+                    "endColumn": 67,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1188,
+                        "endColumn": 67,
+                        "endOffset": 1251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 44,
+                    "endOffset": 664
+                },
+                "from": {
+                    "file": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 857,
+                        "endColumn": 44,
+                        "endOffset": 897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 669,
+                    "endColumn": 54,
+                    "endOffset": 719
+                },
+                "from": {
+                    "file": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 902,
+                        "endColumn": 54,
+                        "endOffset": 952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 724,
+                    "endColumn": 46,
+                    "endOffset": 766
+                },
+                "from": {
+                    "file": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 46,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 771,
+                    "endColumn": 48,
+                    "endOffset": 815
+                },
+                "from": {
+                    "file": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1435,
+                        "endColumn": 48,
+                        "endOffset": 1479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 820,
+                    "endColumn": 54,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1484,
+                        "endColumn": 54,
+                        "endOffset": 1534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 42,
+                    "endOffset": 913
+                },
+                "from": {
+                    "file": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1539,
+                        "endColumn": 42,
+                        "endOffset": 1577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 918,
+                    "endColumn": 42,
+                    "endOffset": 956
+                },
+                "from": {
+                    "file": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1582,
+                        "endColumn": 42,
+                        "endOffset": 1620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 961,
+                    "endColumn": 43,
+                    "endOffset": 1000
+                },
+                "from": {
+                    "file": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1004,
+                        "endColumn": 43,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1005,
+                    "endColumn": 46,
+                    "endOffset": 1047
+                },
+                "from": {
+                    "file": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1672,
+                        "endColumn": 46,
+                        "endOffset": 1714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1052,
+                    "endColumn": 50,
+                    "endOffset": 1098
+                },
+                "from": {
+                    "file": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 50,
+                        "endOffset": 1183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1103,
+                    "endColumn": 56,
+                    "endOffset": 1155
+                },
+                "from": {
+                    "file": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1304,
+                        "endColumn": 56,
+                        "endOffset": 1356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1160,
+                    "endColumn": 47,
+                    "endOffset": 1203
+                },
+                "from": {
+                    "file": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1256,
+                        "endColumn": 47,
+                        "endOffset": 1299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1208,
+                    "endColumn": 48,
+                    "endOffset": 1252
+                },
+                "from": {
+                    "file": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1361,
+                        "endColumn": 48,
+                        "endOffset": 1405
+                    }
+                }
+            }
+        ]
+    }
+]

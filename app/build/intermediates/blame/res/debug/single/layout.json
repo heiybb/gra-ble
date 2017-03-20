@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Git Source\\graduate\\PWM-Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amo_rgb_activity.xml",
+        "source": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\layout\\amo_rgb_activity.xml"
+    },
+    {
+        "merged": "D:\\Git Source\\graduate\\PWM-Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "D:\\Git Source\\graduate\\PWM-Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "D:\\Git Source\\graduate\\PWM-Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "D:\\Git Source\\graduate\\PWM-Android1\\app\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    }
+]

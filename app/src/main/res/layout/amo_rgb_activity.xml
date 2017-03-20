@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content"
+		android:id="@+id/linearLayout"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <ToggleButton
+            android:id="@+id/togglebutton_onoff"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:textOff="关灯"
+            android:textOn="开灯"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+        android:id="@+id/txt_brightness"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="P0_6 PWM" />
+
+		<SeekBar
+			android:id="@+id/seekbar_brightness"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:max="100"
+			android:progress="20"
+			android:secondaryProgress="100" />
+
+		<TextView
+        android:id="@+id/txt_color_red"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="P0_7 PWM" />
+
+		<SeekBar
+			android:id="@+id/seekbar_red"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:max="255"
+			android:progress="50"
+			android:secondaryProgress="255" />
+
+		<TextView
+        android:id="@+id/txt_color_green"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="P1_0 PWM" />
+
+
+		<SeekBar
+			android:id="@+id/seekbar_green"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:max="255"
+			android:progress="50"
+			android:secondaryProgress="255" />
+
+		<TextView
+        android:id="@+id/txt_color_blue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="P1_1 PWM" />
+
+        <SeekBar
+            android:id="@+id/seekbar_blue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:max="255"
+            android:progress="50"
+            android:secondaryProgress="255" />
+    </LinearLayout>
+</RelativeLayout>

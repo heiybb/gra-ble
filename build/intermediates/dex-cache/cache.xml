@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Git Source\graduate\PWM-Android1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2096ef066e9976b440b0db17da87392b52625ed0">
+        <dex dex="D:\Git Source\graduate\PWM-Android1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_67c36ffb66648d72f9d5f1016749c288e68d9531\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Git Source\graduate\PWM-Android1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Git Source\graduate\PWM-Android1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_305ef54f4b25b576669e7477923b9f4bdfa6b9c0\classes.dex" />
+    </item>
+
+</items>
